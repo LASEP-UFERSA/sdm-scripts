@@ -1,8 +1,8 @@
 # Diretórios
-dados
-modelos
-projecoes
-shapefiles
+dados/**
+modelos/**
+projecoes/**
+shapefiles/**
 
 # Arquivos do Jupyteri
 .ipynb_checkpoints
